@@ -1,6 +1,6 @@
 # scripts
 
-Miscellaneous scripts to make my life easier. \
+Miscellaneous scripts to make my life easier.  
 
 
 **runsilentbatch.vbs**
